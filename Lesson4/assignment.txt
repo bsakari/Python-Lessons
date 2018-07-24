@@ -1,0 +1,7 @@
+Using your own defined function, write a program to
+calculate
+1. Volume of a cylinder.
+2. Area of a triangle
+3. Area of a circle
+Note: Get all the inputs from the user.
+      Use math formulas

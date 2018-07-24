@@ -1,0 +1,11 @@
+names = ("Dan","Brio","King","Anto")
+marks = (98,90,99,95)
+print(names)
+print(marks)
+print(names[2])
+print(marks[0:4])
+print(marks[1:])
+print(marks*3)
+print(names[1],names[2])
+print(marks+names)
+

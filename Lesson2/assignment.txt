@@ -1,0 +1,9 @@
+Culculate the distances and areas of five circles
+respectively and display the output as a
+    a. List
+    b. Tuple
+    c. dictionary
+
+Note: Let Distances be Keys and Areas be Values
+
+Get input from the user.
